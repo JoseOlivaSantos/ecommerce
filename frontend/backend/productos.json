@@ -1,0 +1,101 @@
+[
+    {
+        "id_producto": "1",
+        "nombre": "Camisa Casual Azul",
+        "descripcion": "Camisa de algodón para hombre, corte regular fit",
+        "precio": "249.99",
+        "stock": "25",
+        "imagen": "https:\/\/tse2.mm.bing.net\/th\/id\/OIP.YGwwTaXW0-idzm3aOsvJtwHaLH?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "id_categoria": "1"
+    },
+    {
+        "id_producto": "2",
+        "nombre": "Pantalón Slim Negro",
+        "descripcion": "Pantalón de mezclilla stretch para hombre",
+        "precio": "399.50",
+        "stock": "30",
+        "imagen": "https:\/\/victor.com.co\/cdn\/shop\/files\/2Z7A2101.jpg?v=1709304036&width=720",
+        "id_categoria": "2"
+    },
+    {
+        "id_producto": "3",
+        "nombre": "Chaqueta de Cuero",
+        "descripcion": "Chaqueta sintética negra con cierre metálico",
+        "precio": "899.00",
+        "stock": "15",
+        "imagen": "https:\/\/th.bing.com\/th\/id\/R.1aec6e0c42f7958215e673bb63847d9e?rik=FPIQbi%2b82DfL2g&pid=ImgRaw&r=0",
+        "id_categoria": "3"
+    },
+    {
+        "id_producto": "4",
+        "nombre": "Camiseta Blanca Mujer",
+        "descripcion": "Camiseta básica cuello redondo",
+        "precio": "129.00",
+        "stock": "40",
+        "imagen": "https:\/\/www.publivalles.com\/wp-content\/uploads\/2019\/09\/K380_2017.jpg",
+        "id_categoria": "4"
+    },
+    {
+        "id_producto": "5",
+        "nombre": "Vestido Floral",
+        "descripcion": "Vestido corto estampado con flores, tela ligera",
+        "precio": "459.99",
+        "stock": "20",
+        "imagen": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.-A2ymBR6Ww3UbGZEAR_IJAHaKQ?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "id_categoria": "5"
+    },
+    {
+        "id_producto": "6",
+        "nombre": "Falda de Mezclilla",
+        "descripcion": "Falda corta azul con botones frontales",
+        "precio": "299.00",
+        "stock": "25",
+        "imagen": "https:\/\/img.ltwebstatic.com\/images3_pi\/2022\/07\/04\/1656896986f53c349bd095644a160eceddb2dd7869.jpg",
+        "id_categoria": "6"
+    },
+    {
+        "id_producto": "7",
+        "nombre": "Leggings Deportivos",
+        "descripcion": "Leggings elásticos color negro",
+        "precio": "199.99",
+        "stock": "50",
+        "imagen": "https:\/\/i.pinimg.com\/736x\/5a\/c4\/97\/5ac497d5209701c3ca0215c35f14a1fe.jpg",
+        "id_categoria": "7"
+    },
+    {
+        "id_producto": "8",
+        "nombre": "Cinturón de Cuero",
+        "descripcion": "Cinturón unisex con hebilla metálica",
+        "precio": "179.50",
+        "stock": "35",
+        "imagen": "https:\/\/tse3.mm.bing.net\/th\/id\/OIP.yHWiD1oZA85lJovro5J3bgHaJQ?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "id_categoria": "8"
+    },
+    {
+        "id_producto": "9",
+        "nombre": "Tenis Blancos",
+        "descripcion": "Tenis deportivos unisex con suela de goma",
+        "precio": "499.00",
+        "stock": "40",
+        "imagen": "https:\/\/cdn.shopify.com\/s\/files\/1\/1788\/1479\/products\/F36483-5.jpg?v=1564441913",
+        "id_categoria": "9"
+    },
+    {
+        "id_producto": "10",
+        "nombre": "Boxers Hombre Pack 3",
+        "descripcion": "Boxers de algodón, colores surtidos",
+        "precio": "249.00",
+        "stock": "80",
+        "imagen": "https:\/\/tse4.mm.bing.net\/th\/id\/OIP.C3d5rjrF3A7bD0nAk_XqUwHaIO?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "id_categoria": "10"
+    },
+    {
+        "id_producto": "11",
+        "nombre": "Blusa casual black",
+        "descripcion": "Blusa de algodon ",
+        "precio": "325.00",
+        "stock": "25",
+        "imagen": "https:\/\/img01.ztat.net\/article\/spp-media-p1\/df6f53dfcf774a2191df7cc7d1d57221\/372cc91bb996431da9d2b60cda65f579.jpg?imwidth=762",
+        "id_categoria": "1"
+    }
+]
